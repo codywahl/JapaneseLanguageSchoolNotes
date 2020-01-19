@@ -1,20 +1,14 @@
 # J1
-<details>
-<summary>Click to expand.</summary>
 
-[Chapter 22](https://codywahl.github.io/JapaneseLanguageSchoolNotes/)
-
-</details>
+- [Chapter 22](https://codywahl.github.io/JapaneseLanguageSchoolNotes/)
 
 # J2
-<details>
-<summary>Click to expand.</summary>
 
-[Chapter 23](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/25)
-[Chapter 24](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/md-help)
-[Chapter 25](https://codywahl.github.io/JapaneseLanguageSchoolNotes/twenty-five)
-[Chapter 26](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/twenty-six)
+- [Chapter 23](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/25)
+- [Chapter 24](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/md-help)
+- [Chapter 25](https://codywahl.github.io/JapaneseLanguageSchoolNotes/twenty-five)
+- [Chapter 26](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/twenty-six)
 
-</details>
+## Other
 
 [Markdown help](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/md-help)

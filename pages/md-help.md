@@ -18,6 +18,14 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+Collapsible section
+<details>
+<summary>Click to expand.</summary>
+
+[Chapter 22](https://codywahl.github.io/JapaneseLanguageSchoolNotes/)
+
+</details>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
