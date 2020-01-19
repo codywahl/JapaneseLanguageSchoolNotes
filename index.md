@@ -6,8 +6,8 @@
 
 - [Chapter 23](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/23)
 - [Chapter 24](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/24)
-- [Chapter 25](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/25)
-- [Chapter 26](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/26) 「ので」、「～か、～。」、「～かどうか、～。」、「ていません」
+- [Chapter 25](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/25) 「ので」、「～か、～。」、「～かどうか、～。」、「ていません」
+- [Chapter 26](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/26)
 
 ## Other
 
