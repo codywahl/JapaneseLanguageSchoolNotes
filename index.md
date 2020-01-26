@@ -15,6 +15,8 @@
 - [Chapter 26](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/26)
   - 「とき」、「なければなりません」、「なきゃ」
 - [Chapter 27](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/27)
+  - 「～んです」、「～んですが、～。」、「～ながら～。」
+- [Chapter 28](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/28)
   - まだ何もありません～
 
 ## Other
