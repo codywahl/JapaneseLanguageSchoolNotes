@@ -3,6 +3,7 @@
 ## J1
 
 - [Chapter 22](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/22)
+  - 「~にthingをくれました。」、「てVerb+くれました」、「てVerb+もらいました」、「てVerb+あげました」
 
 ## J2
 
