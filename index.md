@@ -18,7 +18,9 @@
 - [Chapter 27](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/27)
   - 「～んです」、「～んですが、～。」、「～ながら～。」
 - [Chapter 28](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/28)
-  - まだ何もありません～
+  - 「ています」、「～そうです」、「Adverbial form」、「」
+- [Chapter 29](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/28)
+  - 「し、」、「ことにしました」、「ことになります」、「ことになっています」
 
 ## Other
 
