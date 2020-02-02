@@ -19,7 +19,7 @@
   - 「～んです」、「～んですが、～。」、「～ながら～。」
 - [Chapter 28](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/28)
   - 「ています」、「～そうです」、「Adverbial form」、「」
-- [Chapter 29](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/28)
+- [Chapter 29](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/29)
   - 「し、」、「ことにしました」、「ことになります」、「ことになっています」
 
 ## Other
