@@ -21,6 +21,12 @@
   - 「ています」、「～そうです」、「Adverbial form」、「」
 - [Chapter 29](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/29)
   - 「し、」、「ことにしました」、「ことになります」、「ことになっています」
+- [Chapter 30](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/30)
+  - 「いこうけい」、「いこうけい + と + 思う」、「ために」
+- [Chapter 31](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/31)
+  - 「Vてform + おきます」、「Vてform + おいて + ください」、「Vてform + あります」、「すぎました & すぎます」
+- [Chapter 32](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/32)
+  - 「ほうがいいです」、「かもしれません」、「ｖて、～～。」
 
 ## Other
 
