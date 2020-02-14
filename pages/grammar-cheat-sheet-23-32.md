@@ -24,7 +24,7 @@ Grammar Item | Adj Type | Rule
 ------------ | ------------ | ------------
 ので | な<br>い | ＋な＋ので<br>plain＋ので
 ～か、～。|  な<br>い | plain＋か、～。
-とき | な<br>い  | ＋な＋とき<br>plain＋ので
+とき | な<br>い  | ＋な＋とき<br>plain＋とき
 ～そうです。| な<br>い | ＋だ＋そうです<br>plain＋そうです
 Adverbial form | な<br>い | な -> に<br>い -> く
 し、~し、~です。| な<br>い | plain+し<br>plain+し

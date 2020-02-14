@@ -14,4 +14,5 @@ Verbs ending in aru are intransitive
 The most regular pattern here is aru(じ)→eru(た)
 
 ## More help
+
 [Learn Japanese Online](http://learnjapaneseonline.info/2016/12/27/mastering-transitivity-pairs-remembering-japanese-transitive-and-intransitive-verbs-the-easy-way/)
