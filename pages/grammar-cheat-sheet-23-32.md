@@ -12,10 +12,11 @@ Form | Grammar item
 Dictionary Form | ~ + と、～。<br>～+ ので<br>～か、～。<br>～かどうか、～。<br>～とき<br>～んです<br>～ために<br>～かもしれませ～
 ない form |～なければなりません<br>～ほうがいいです
 た form | ～とき<br>～んです<br>～ほうがいいです
-かのうけい Verbs　(potential form) | ～ + ように + なりました。<br>～ + なくなりました<br>～と思っています。
+かのうけい Verbs　(potential form) | ～ + ように + なりました。<br>～ + なくなりました<br>
 ~~ます~~ | ～ながら<br>～すぎます
 ます | <br>
 ふつけい | ～そうです。<br>し、~し、~です。<br>ことにしました<br>ことになりました<br>ことになっています<br>
+いこうけい | ～と思っています。
 
 ## Adjectives
 

@@ -1,31 +1,17 @@
-### Markdown
+# Transitive and Intransitive
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+自動詞 jidoushi – self-move word (“intransitive”) J->I
 
-```markdown
-Syntax highlighted code block
+他動詞 tadoushi – other-move word “(transitive”)　T->T
 
-# Header 1
-## Header 2
-### Header 3
+## Rule 1
 
-- Bulleted
-- List
+All verbs ending in す are transitive verbs. Whether they have an intransitive “pair” or not.
 
-1. Numbered
-2. List
+## Rule 2
 
-**Bold** and _Italic_ and `Code` text
+Verbs ending in aru are intransitive
+The most regular pattern here is aru(じ)→eru(た)
 
-[Link](url) and ![Image](src)
-
-Collapsible section
-<details>
-<summary>Click to expand.</summary>
-
-[Chapter 22](https://codywahl.github.io/JapaneseLanguageSchoolNotes/)
-
-</details>
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## More help
+[Learn Japanese Online](http://learnjapaneseonline.info/2016/12/27/mastering-transitivity-pairs-remembering-japanese-transitive-and-intransitive-verbs-the-easy-way/)
