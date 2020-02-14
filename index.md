@@ -28,6 +28,12 @@
 - [Chapter 32](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/32)
   - 「ほうがいいです」、「かもしれません」、「ｖて、～～。」
 
+## Test Prep
+
+- [L23-32 Cheat Sheet](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/grammar-cheat-sheet-23-32)
+
 ## Other
 
-[Markdown help](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/md-help)
+- [た & じ どうし](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/transitive-and-intransitive-verbs)
+
+- [Markdown help](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/md-help)
