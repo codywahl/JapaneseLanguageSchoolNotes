@@ -31,6 +31,7 @@ Adj. + く/に + します | な<br>い |  な→に + します<br>い→く+ �
 かもしれません | both | plain + かもしれません
 
 ## Timing words・Aux words
+
 Word | Meaning
 ------------ | ------------
 いよいと | more and more
