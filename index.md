@@ -69,7 +69,12 @@
 ### Test 2
 
 - [Chapter 33](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/33)
-  - 「じょうけんけい」、「でしょう」
+  - 「じょうけんけい」
+  - 「でしょう」
+
+- [Chapter 34](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/34)
+  - 「しまいました」
+  - 「のは, のが, のを」
   
 
 ## Test Prep
