@@ -75,6 +75,13 @@
 - [Chapter 34](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/34)
   - 「しまいました」
   - 「のは, のが, のを」
+
+- [Chapter 35](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/35)
+  - 「V + ように、～。」
+  - 「ようにしています。」
+  - 「のに & に」
+  - 「にくいです & やすいです」
+  - 「ますように。」
   
 
 ## Test Prep
