@@ -1,16 +1,6 @@
 # YMCAの日本語学校
 
-## J1
-
-- [Chapter 22](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/22)
-  - 「~にthingをくれました。」
-  - 「てVerb+くれました」
-  - 「てVerb+もらいました」
-  - 「てVerb+あげました」
-
 ## J2
-
-### Test 1
 
 - [Chapter 23](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/23)
   - 「なります」
@@ -66,8 +56,6 @@
   - 「かもしれません」
   - 「ｖて、～～。」
 
-### Test 2
-
 - [Chapter 33](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/33)
   - 「じょうけんけい」
   - 「でしょう」
@@ -82,6 +70,24 @@
   - 「のに & に」
   - 「にくいです & やすいです」
   - 「ますように。」
+
+- [Chapter 36](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/36)
+  - 「」
+  - 「」
+  - 「」
+
+- [Chapter 37](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/37)
+  - 「」
+  - 「」
+  - 「」
+
+## J1
+
+- [Chapter 22](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/22)
+  - 「~にthingをくれました。」
+  - 「てVerb+くれました」
+  - 「てVerb+もらいました」
+  - 「てVerb+あげました」
   
 
 ## Test Prep
