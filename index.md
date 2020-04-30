@@ -72,14 +72,14 @@
   - 「ますように。」
 
 - [Chapter 36](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/36)
-  - 「」
-  - 「」
-  - 「」
+  - 「うけみけい (Passive form)」
+  - 「によって」
 
 - [Chapter 37](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/37)
-  - 「」
-  - 「」
-  - 「」
+  - 「そうです」
+  - 「どころです」
+  - 「みます」
+
 - [Chapter 38](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/38)
   - 「めいれい形」
   - 「きんし形」
