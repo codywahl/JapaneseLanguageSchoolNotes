@@ -80,6 +80,12 @@
   - 「どころです」
   - 「みます」
 
+- [Chapter 38](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/38)
+  - 「めいれい形」
+  - 「きんし形」
+  - 「～なさい」
+  - 「といういみです」
+
 ## J1
 
 - [Chapter 22](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/22)
