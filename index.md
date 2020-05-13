@@ -3,8 +3,10 @@
 ## J3
 - [Lesson 1](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/j3-l1)
   - 「条件は、（＊）ことだ」
-  - 「~と、~。」
-  - 「～て来ます。」
+  - 「～にあう」
+  - 「に違いがある」
+  - 「ように」
+  - 「になっている」
 
 ## J2
 
