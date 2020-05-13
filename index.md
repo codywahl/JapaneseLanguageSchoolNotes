@@ -1,5 +1,11 @@
 # YMCAの日本語学校
 
+## J3
+- [Lesson 1](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/j3-l1)
+  - 「条件は、（＊）ことだ」
+  - 「~と、~。」
+  - 「～て来ます。」
+
 ## J2
 
 - [Chapter 23](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/23)
