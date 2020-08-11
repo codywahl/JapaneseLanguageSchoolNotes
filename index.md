@@ -1,5 +1,12 @@
 # YMCAの日本語学校
 
+## J4
+
+- [Lesson 1](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J4/l1)
+  - 「～ようになる／～なくなる」
+  - 「
+  - 「
+
 ## J3
 
 - [Lesson 1](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J3/l1)
