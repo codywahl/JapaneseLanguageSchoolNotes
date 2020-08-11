@@ -4,8 +4,9 @@
 
 - [Lesson 1](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J4/l1)
   - 「～ようになる／～なくなる」
-  - 「
-  - 「
+  - 「～がる」
+  - 「～ては／といけない」
+  - 「～ないで／ずにいる」
 
 ## J3
 
