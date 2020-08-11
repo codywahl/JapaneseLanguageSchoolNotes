@@ -8,6 +8,12 @@
   - 「～ては／といけない」
   - 「～ないで／ずにいる」
 
+- [Lesson 2](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J4/l2)
+  - 「～と、～た」Did X, then Y happened.
+  - 「～ことに＋する／した／している／していた」 Decided (for/by myself) to do X.
+  - 「～ながら」Did X while Y.
+  - 「～ながら」Despite X, ...
+
 ## J3
 
 - [Lesson 1](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J3/l1)
