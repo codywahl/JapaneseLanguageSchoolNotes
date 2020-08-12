@@ -14,7 +14,7 @@
   - 「～ながら」Did X while Y.
   - 「～ながら」Despite X, ...
 
-  - [Lesson 3](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J4/l3)
+- [Lesson 3](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J4/l3)
   - 「「～うちに」While, during.
   - 「～うちは」While/during X, but later Y.
   - 「～（さ）せてあげる／やる」 Allowing or giving something (a favor)
