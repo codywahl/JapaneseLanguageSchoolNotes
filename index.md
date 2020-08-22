@@ -23,11 +23,17 @@
 ## J3
 
 - [Lesson 1](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J3/l1)
-  - 「条件は、（＊）ことだ」
-  - 「～にあう」
-  - 「に違いがある」
-  - 「ように」
-  - 「になっている」
+  - 「条件は、（＊）ことだ」List requirements
+  - 「～にあう」 X Suits/agrees w/ (me)
+  - 「に違いがある」 Difference exists
+  - 「ように」 Conveying past requests/orders
+  - 「になっている」Express past decided things that continue on, e.g. rules/expectations
+
+- [Lesson 2](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J3/l2)
+  - 「AでBが違う」By X, it differs
+  - 「伝聞表現」 hearsay/expressions
+  - 「やっぱり / やはり」 As I thought
+  - 「お～ください / ご～ください」 Politer ください
 
 ## J2
 
