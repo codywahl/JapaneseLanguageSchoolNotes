@@ -3,10 +3,10 @@
 ## J4
 
 - [Lesson 1](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J4/l1)
-  - 「～ようになる／～なくなる」
-  - 「～がる」
-  - 「～ては／といけない」
-  - 「～ないで／ずにいる」
+  - 「～ようになる／～なくなる」Ability or habit changes
+  - 「～がる」Appears to X
+  - 「～ては／といけない」To not have X happen,...
+  - 「～ないで／ずにいる」Without doing X, ... 
 
 - [Lesson 2](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J4/l2)
   - 「～と、～た」Did X, then Y happened.
