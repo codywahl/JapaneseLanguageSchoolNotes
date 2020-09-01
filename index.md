@@ -26,6 +26,18 @@
   - 「～て／ないでほしい」 I want you to/not to; need you to/not to~
   - 「～とは思えない」 I can't even consider/think of
 
+- [Lesson 5](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J4/l5)
+  - 「」    
+  - 「」    
+  - 「」  
+  - 「」   
+
+- [Lesson 6](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J4/l6)
+  - 「~とか～とか」list things
+  - 「～といっても」though I say,  
+  - 「～ものだ」「～ものではない」describe feeling; express memories; state fact
+  - 「～たつもり」 
+
 ## J3
 
 - [Lesson 1](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J3/l1)
