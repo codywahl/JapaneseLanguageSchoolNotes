@@ -1,5 +1,28 @@
 # YMCAの日本語学校
 
+## J5
+
+- [Lesson 11](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J5/l11)
+  - [~ざるを得ない　ざるをえない]
+  - [～さえ]
+  - [～にしろ～にしろ]
+  - [～た上で]
+- [Lesson 12](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J5/l11)
+  - [～通り　とおり]
+  - [～というのも]
+  - [～とする/とされる]
+  - [～によって]
+- [Lesson 13](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J5/l11)
+  - [～まま / ままに]
+  - [～べき]
+  - [～のことだから]
+  - [～きっかけで／に]
+- [Lesson 14](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J5/l11)
+  - [~上で]
+  - [~次第　しだい]
+  - [～とともに]
+  - [～にもかかわらず]
+
 ## J4
 
 - [Lesson 1](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J4/l1)
