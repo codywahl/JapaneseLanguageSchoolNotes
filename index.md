@@ -7,17 +7,17 @@
   - [～さえ]
   - [～にしろ～にしろ]
   - [～た上で]
-- [Lesson 12](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J5/l11)
+- [Lesson 12](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J5/l12)
   - [～通り　とおり]
   - [～というのも]
   - [～とする/とされる]
   - [～によって]
-- [Lesson 13](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J5/l11)
+- [Lesson 13](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J5/l13)
   - [～まま / ままに]
   - [～べき]
   - [～のことだから]
   - [～きっかけで／に]
-- [Lesson 14](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J5/l11)
+- [Lesson 14](https://codywahl.github.io/JapaneseLanguageSchoolNotes/pages/J5/l14)
   - [~上で]
   - [~次第　しだい]
   - [～とともに]
